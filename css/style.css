@@ -126,9 +126,8 @@ main{
 }
 .copy{
     font-size: 14px;
-    margin-top: 0px;
+    margin-top: 50px;
     margin-left: 20px;
-    position: absolute;
     bottom: 30px;
     
 }
