@@ -1,12 +1,12 @@
 const more = document.querySelector("#mas");
 
-    const link = "http://127.0.0.1:5500/index.html";
+    const link = "https://ryanxaxf.github.io/Mi-propio-Linktree/";
     
 
 more.addEventListener("click", function(){ 
     Swal.fire({ 
         title :"Compartir Vinculo",
-        text: "http://127.0.0.1:5500/index.html"
+        text: "https://ryanxaxf.github.io/Mi-propio-Linktree/"
         }).then((result) => {
                 if (result.isConfirmed){
                     navigator.clipboard.writeText(link)
