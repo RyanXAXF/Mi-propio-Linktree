@@ -467,8 +467,7 @@ main{
     }
     
     .footer{
-        margin-top: 20%;
-        margin-bottom: 0;
+        margin: 0;
         width: 55%;
         display: flex;
         flex-direction: column;
@@ -571,8 +570,7 @@ main{
     }
     
     .footer{
-        margin-top: 20%;
-        margin-bottom: 0;
+        margin: 0;
         width: 55%;
         display: flex;
         flex-direction: column;
@@ -676,8 +674,7 @@ main{
     }
     
     .footer{
-        margin-top: 20%;
-        margin-bottom: 0;
+        margin: 0;
         width: 55%;
         display: flex;
         flex-direction: column;
@@ -800,14 +797,14 @@ main{
     }
     
     .footer{
-        margin-top: 20%;
-        margin-bottom: 0;
+        margin: 0;
         width: 55%;
         display: flex;
         flex-direction: column;
         justify-content: center;
     
     }
+   
     .copy{
         font-size: 14px;
         margin-top: 0px;
