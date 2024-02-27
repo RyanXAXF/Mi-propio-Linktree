@@ -23,7 +23,7 @@ body {
     background-attachment: fixed;
 }
 main{
-    background-image: url("/css/gif-fondo.gif");
+    background-image: url("gif-fondo.gif");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
