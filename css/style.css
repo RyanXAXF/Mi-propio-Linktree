@@ -389,7 +389,7 @@ main{
         background-color: rgba(139, 139, 139, 0.75);
         border-radius: 50px;
         margin-bottom: 20px;
-        margin-top: 60%;
+        margin-top: 0;
         cursor: pointer;
     }
     
