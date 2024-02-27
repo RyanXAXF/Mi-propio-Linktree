@@ -191,7 +191,7 @@ main{
 
 }
 
-@media(max-width: 400px){
+@media(max-width: 450px){
  
     .img-perfil{
         width: 120px;
@@ -286,6 +286,7 @@ main{
         background-color: rgba(139, 139, 139, 0.75);
         border-radius: 50px;
         margin-bottom: 20px;
+        margin-top: 20%;
         cursor: pointer;
     }
     
@@ -293,7 +294,7 @@ main{
 }
 
 
-@media(max-width: 380px){
+@media(max-width: 400px){
  
     .img-perfil{
         width: 100px;
@@ -388,13 +389,14 @@ main{
         background-color: rgba(139, 139, 139, 0.75);
         border-radius: 50px;
         margin-bottom: 20px;
+        margin-top: 60%;
         cursor: pointer;
     }
     
    
 }
 
-@media(max-width: 370px){
+@media(max-width: 380px){
  
     .img-perfil{
         width: 100px;
@@ -490,7 +492,7 @@ main{
         background-color: rgba(139, 139, 139, 0.75);
         border-radius: 50px;
         margin-bottom: 15px;
-        margin-top: 100%;
+        margin-top: 50%;
         cursor: pointer;
     }
     
