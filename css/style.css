@@ -495,7 +495,7 @@ main{
     }
     .copy{
         font-size: 14px;
-        margin-top: 50px;
+        margin-top: 0px;
         margin-left: 20px;
         bottom: 30px;
         
@@ -598,8 +598,8 @@ main{
     
     }
     .copy{
-        font-size: 14px;
-        margin-top: 50px;
+        font-size: 12px;
+        margin-top: 0px;
         margin-left: 20px;
         bottom: 30px;
         
